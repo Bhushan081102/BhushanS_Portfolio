@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **shendebhushan4848@gmail.com**
 
-- 🌐 Check out my portfolio: [Bhushan Shende Portfolio](https://github.com/Bhushan081102/BhushanS_Portfolio)
+- 🌐 Visit my live portfolio: [My Portfolio](https://bhushan081102.github.io/BhushanS_Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
